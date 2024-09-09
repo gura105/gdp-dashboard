@@ -1,0 +1,10 @@
+credentials:
+  usernames:
+    hakky:
+      email: hakky@example.com
+      name: hakky
+      password: $2b$12$7JTIe3YFtG6IebKUQ6wpbOX9r4IRE9JynqIDgy658LWm6x69ecHgm
+cookie:
+  expiry_days: 90
+  key: some_key
+  name: some_cookie_name
